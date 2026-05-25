@@ -1,0 +1,902 @@
+[
+  {
+    "capId": "CAP-001-WUEH-0001",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.187Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0002",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0003",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0004",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0005",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0006",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0007",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0008",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0009",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0010",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0011",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0012",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0013",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0014",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0015",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0016",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0017",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0018",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0019",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-WUEH-0020",
+    "drop": "001",
+    "phrase": "WUEH",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0001",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0002",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0003",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0004",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0005",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0006",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0007",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0008",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0009",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0010",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0011",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0012",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0013",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0014",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0015",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0016",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0017",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0018",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0019",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-MAMBO-0020",
+    "drop": "001",
+    "phrase": "MAMBO NI MENGI",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0001",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0002",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0003",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0004",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0005",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0006",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0007",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0008",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0009",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0010",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0011",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0012",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0013",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0014",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0015",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0016",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0017",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0018",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0019",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-SINAPRESSURE-0020",
+    "drop": "001",
+    "phrase": "SINA PRESSURE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0001",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0002",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0003",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0004",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0005",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0006",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0007",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0008",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0009",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0010",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0011",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0012",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0013",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0014",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0015",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0016",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0017",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0018",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0019",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-USINIHARAKISHE-0020",
+    "drop": "001",
+    "phrase": "USINIHARAKISHE",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0001",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0002",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0003",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0004",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0005",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0006",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0007",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0008",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0009",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0010",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0011",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0012",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0013",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0014",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0015",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0016",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0017",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0018",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0019",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  },
+  {
+    "capId": "CAP-001-NIKOLOWKEY-0020",
+    "drop": "001",
+    "phrase": "NIKO LOWKEY",
+    "status": "unregistered",
+    "owner": null,
+    "source": "drop-001",
+    "createdAt": "2026-05-25T14:39:35.189Z"
+  }
+]
