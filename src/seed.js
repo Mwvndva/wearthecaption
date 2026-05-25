@@ -1,7 +1,7 @@
 const { writeCaps } = require("./store");
 
 const phrases = [
-  ["WUEH", "WUEH"],
+  ["WUEH", "USINIHARAKISHE"],
   ["MAMBO", "MAMBO NI MENGI"],
   ["SINAPRESSURE", "SINA PRESSURE"],
   ["USINIHARAKISHE", "USINIHARAKISHE"],
