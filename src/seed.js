@@ -5,10 +5,11 @@ const phrases = [
   ["MAMBO", "MAMBO NI MENGI"],
   ["SINAPRESSURE", "SINA PRESSURE"],
   ["USINIHARAKISHE", "USINIHARAKISHE"],
-  ["NIKOLOWKEY", "NIKO LOWKEY"]
+  ["TUMAFARE", "TUMA FARE"]
 ];
 
 const caps = [];
+const createdAt = "2026-05-25T00:00:00.000Z";
 
 for (const [slug, phrase] of phrases) {
   for (let index = 1; index <= 20; index += 1) {
@@ -19,7 +20,7 @@ for (const [slug, phrase] of phrases) {
       status: "unregistered",
       owner: null,
       source: "drop-001",
-      createdAt: new Date().toISOString()
+      createdAt
     });
   }
 }
